@@ -1,0 +1,20 @@
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\bin\Debug\inverted indexer.exe.config
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\bin\Debug\inverted indexer.exe
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\bin\Debug\inverted indexer.pdb
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\obj\Debug\inverted indexer.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\obj\Debug\inverted_indexer.Properties.Resources.resources
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\obj\Debug\inverted indexer.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\obj\Debug\inverted indexer.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\obj\Debug\inverted indexer.exe
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\obj\Debug\inverted indexer.pdb
+C:\Users\HP\source\repos\inverted indexer\inverted indexer\obj\Debug\inverted_indexer.index.resources
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\obj\Debug\inverted indexer.csprojResolveAssemblyReference.cache
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\obj\Debug\inverted_indexer.index.resources
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\obj\Debug\inverted_indexer.Properties.Resources.resources
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\obj\Debug\inverted indexer.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\obj\Debug\inverted indexer.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\obj\Debug\inverted indexer.exe
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\obj\Debug\inverted indexer.pdb
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\bin\Debug\inverted indexer.exe.config
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\bin\Debug\inverted indexer.exe
+C:\Users\HP\Desktop\ir\src\inverted indexer\inverted indexer\bin\Debug\inverted indexer.pdb
